@@ -1,0 +1,6 @@
+Gene_name	Multiplicity	Frequency
+IGHJ1	8	0.008
+IGHJ3	18	0.018
+IGHJ4	158	0.158
+IGHJ5	768	0.768
+IGHJ6	48	0.048
